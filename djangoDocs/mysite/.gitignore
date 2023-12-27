@@ -1,16 +1,9 @@
-# BackEnd
-__pycache__
+### Django ###
+*.log
+*.pot
 *.pyc
-*~
-.DS_Store
-.vscode
+__pycache__/
+local_settings.py
 db.sqlite3
-db.json
-/_static
-/_media
-venv
-.venv
+db.sqlite3-journal
 media
-.env
-.cache
-# .idea
